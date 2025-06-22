@@ -42,13 +42,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 * [Weather API](https://openweathermap.org/api)
 * [Tutorial](https://youtu.be/MIYQR-Ybrn4?si=WNdA4WnE4HuPoPJX)
 
-## Contact
-
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
-
-- Linkedin : [sarthak-lad](https://linkedin.com/in/sarthak-lad)
-- Email: [sarthaklad1034@gmail.com](mailto:sarthaklad1034@gmail.com)
-
----
 
 Enjoy exploring the code and creating your own weather broadcast website!
